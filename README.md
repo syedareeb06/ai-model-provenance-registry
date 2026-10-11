@@ -37,6 +37,7 @@ Teams download pre-trained models and public datasets every day. Today:
 - **Blockchain Explorer**: hash-linked blocks, decoded transactions and the full audit log
 - Built-in sample data generated in the browser (4 CSV datasets, 5 synthetic weight files); you can also upload your own files up to 10 MB (only hashes and leaf lists are stored)
 - Two blockchains: an **in-browser Ethereum chain** (zero setup) or a **local Hardhat node**
+- **Light / dark theme switch** in the top bar (follows your system theme until you choose, then remembers it)
 
 | Data provider registers a dataset | Model passport check |
 |---|---|
